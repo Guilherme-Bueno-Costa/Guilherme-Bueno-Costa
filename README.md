@@ -65,4 +65,5 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Bueno-Costa&show_icons=true&theme=dracula)
+![Guilherme Bueno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Bueno-Costa&show_icons=true&theme=dracula)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Bueno-Costa&layout=compact&langs_count=6&theme=dracula"/>
