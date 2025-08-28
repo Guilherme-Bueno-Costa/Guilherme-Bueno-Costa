@@ -1,47 +1,49 @@
-<h1>Hey, I'm Guilherme Bueno, a passionate Full Stack Studant!</h1>
+<h1>Olá! Me chamo Guilherme Bueno, um desenvolvedor FullStack!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/guilherme-bueno-costa/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:guilherme.buenoc23@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
-Hi!
+Olá!
 
-My name is Guilherme, I'm a Systems Analysis and Development student with a solid 10-year background as a chemical engineer. Throughout this journey, I've always been driven by a constant impulse: solving problems creatively and effectively. This same passion—for understanding systems, proposing solutions, and implementing them—is what brought me closer to technology and, more recently, to programming.
+Meu nome é Guilherme, sou estudante de Análise e Desenvolvimento de Sistemas com uma sólida experiência de 10 anos como engenheiro químico. Ao longo dessa trajetória, me especializei na no desenvolvimento de soluções para atender as necessidades de clientes e foi essa mesma paixão que me aproximou da tecnologia.
 
-Although my academic background is in chemical engineering, I’ve always been fascinated by logic and the creation of digital solutions. Since college, when I first encountered programming, I felt its potential—a bridge between structured thinking and creative construction. I took UX/UI Design courses at Awari and worked on a few personal projects focused on interface design, but I realized I had a much stronger desire to build what happens behind the scenes.
+Embora minha primeira formação acadêmica seja em engenharia química, sempre estive ligado a busca e desenvolvimento de soluções. Com isso em mente, busquei me especializar em UX Design, tendo em vista que, apesar da especificidade em design, as metodologias propostas podem ser enquadradas em diversas áreas do conhecimento. Esse foi meu primeiro passo para, de fato, decidir pela migração de carreira para tecnologia.
 
-Today, I’m fully focused on transitioning into tech. I study daily with the support of the Full Stack Club community, where I’ve been diving deep into HTML, CSS, JavaScript, TypeScript, Node.js, React, Git, GitHub, databases, software architecture, and much more.
+Hoje, estou totalmente focado em migrar para a área de tecnologia. Estudo diariamente com o apoio da comunidade Full Stack Club, onde tenho mergulhado em HTML, CSS, JavaScript, TypeScript, Node.js, React, Git, GitHub, bancos de dados, arquitetura de software e muito mais.
 
-During my time as an engineer, I applied this problem-solving mindset in many ways. I improved processes, developed internal tools, and organized technical documentation with a focus on clarity, structure, and efficiency. I believe these skills will greatly contribute to my development as a programmer.
+Durante minha carreira como engenheiro, apliquei essa mentalidade de resolução de problemas de várias formas, das quais destaco o desenvolvimento de um EPI que apresente uma identificação visual mais impactante, de forma a melhorar o processo de trabalho dos usuários. Além disso trabalhei ativamente com o setor de TI da empresa para desenvolver um sistema para cadastros dos laudos tecnicos desses mesmos EPI's. Promovendo maior confiança para o usuário. Além disso realizei melhorias de processos, desenvolvi ferramentas internas e organizei documentação técnica com foco em clareza, estrutura e eficiência. Acredito que essas habilidades vão contribuir bimensamente para meu desenvolvimento como programador.
 
-Currently, I'm working on personal projects to put all this knowledge into practice. I’ve built a fictional web application for space tourism (Mars - The Project), a functional calculator app, and I'm now developing a website for my fiancée’s atelier to help boost client acquisition and strengthen her brand. My current focus is front-end development, while also studying back-end technologies to become a well-rounded Full Stack developer—and maybe even dive into game development in the future.
+Atualmente, estou trabalhando em projetos pessoais para colocar todo esse conhecimento em prática. Já construí uma aplicação web fictícia de turismo espacial (Mars - The Project) utilizando apenas HTML, CSS e JavaScript puro, um aplicativo funcional de calculadora e, neste momento, estou trabalhando em três proetos diferentes:
 
-Beyond technology, I’m passionate about books, games, series, and movies. I live with my fiancée, our daughter, and our cat Luke, who insists on joining every remote meeting.
-If you’re looking for someone who’s passionate about tech, has a strong problem-solving mindset, and a thoughtful approach to building efficient, well-structured products—let’s connect.
+-   Aplicação Web para um Ateliê com o objetivo de aproximar e aumentar o pool de clientes. Neste projeto estou atuando desde o desenvolvimento da interface (UI Design) até a programação do front e back-end.
+-   Aplicação Web para uma plataforma de RPG de mesa digital, com o objetivo de fornecer uma opção aos já existtentes, com o diferencial de possibilitar a criação de um universo totalmente próprio. Neste projeto estou atuando também como UI Design e Full Stack.
+-   Desenvolvimento de plataforma e-commerce como projeto do curso FullStack Club onde estou desenvolvendo e aprimorando minhas habilidades com React, Next, TypeScript e Tailwind CSS.
 
-<h2> 📚 &nbsp;What will you find here?</h2>
+<h2> 📚 &nbsp;O que você irá encontrar aqui?</h2>
 
-This GitHub is more than just a repository; it’s a record of all my effort, studies, and experiences. Whether you’re a recruiter or a fellow developer, here you’ll find:
+Este GitHub é mais do que apenas um repositório; é um registro de todo o meu esforço, estudos e experiências. Seja você um recrutador ou um colega desenvolvedor, aqui você encontrará:
 
-- Personal projects,
-- Professional projects (coming soon!),
-- My studies and observations,
-- A lot of hard work dedicated to building a concise and consistent professional career.
+-   Projetos pessoais,
+-   Projetos profissionais (em breve!),
+-   Meus estudos e observações,
+-   Muito trabalho dedicado à construção de uma carreira profissional concisa e consistente.
 
-If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:guilherme.buenoc23@gmail.com">click here and send me an email</a> — or reach out on <a href="https://www.linkedin.com/in/guilherme-bueno-costa/">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
+Se quiser se conectar, colaborar ou tiver qualquer dúvida, sinta-se à vontade para <a href="mailto:guilherme.buenoc23@gmail.com">clicar aqui e me enviar um e-mail</a> — ou entrar em contato pelo <a href="https://www.linkedin.com/in/guilherme-bueno-costa/">LinkedIn</a>. Estou sempre aberto a boas conversas e oportunidades interessantes.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css&logoColor=#663399)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=#CD6799)
 
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7) -->
 <!-- ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
@@ -52,18 +54,20 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 <h3>⚙️ &nbsp;Back-end & databases:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-
-<!-- ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka) -->
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
+<h3>⚙️ &nbsp;Demais ferramentas:</h3>
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=ci/cd)
+
+<br/>
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
-![Guilherme Bueno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Bueno-Costa&show_icons=true&theme=dracula)
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Bueno-Costa&layout=compact&langs_count=6&theme=dracula"/>
+![Guilherme Bueno's GitHub Stats ](https://github-readme-stats.vercel.app/api?username=Guilherme-Bueno-Costa&show_icons=true&theme=dracula)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Bueno-Costa&layout=compact&langs_count=6&theme=dracula"/>
