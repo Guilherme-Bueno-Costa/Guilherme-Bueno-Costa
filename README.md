@@ -28,9 +28,9 @@ Atualmente, estou trabalhando em projetos pessoais para colocar todo esse conhec
 Este GitHub é mais do que apenas um repositório; é um registro de todo o meu esforço, estudos e experiências. Seja você um recrutador ou um colega desenvolvedor, aqui você encontrará:
 
 -   Projetos pessoais,
--   Projetos profissionais (em breve!),
+-   Projetos profissionais,
 -   Meus estudos e observações,
--   Muito trabalho dedicado à construção de uma carreira profissional concisa e consistente.
+-   Muito trabalho dedicado à construção de uma carreira profissional consistente.
 
 Se quiser se conectar, colaborar ou tiver qualquer dúvida, sinta-se à vontade para <a href="mailto:guilherme.buenoc23@gmail.com">clicar aqui e me enviar um e-mail</a> — ou entrar em contato pelo <a href="https://www.linkedin.com/in/guilherme-bueno-costa/">LinkedIn</a>. Estou sempre aberto a boas conversas e oportunidades interessantes.
 
